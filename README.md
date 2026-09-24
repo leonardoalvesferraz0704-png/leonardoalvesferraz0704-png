@@ -1,4 +1,4 @@
-                                               # Leonardo Alves
+# Leonardo Alves
 
 **Estudante de Engenharia de Software (2º período)** · UniBrasil Centro Universitário
 Aprendendo C# e C, com HTML, CSS e JavaScript no desenvolvimento web
@@ -39,10 +39,10 @@ Além das matérias da faculdade, também crio sites para pequenos negócios, o 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| **Busca do Tempo (BDT)** | App de previsão do tempo feito em equipe: busca a cidade digitada e mostra o clima usando as APIs Open-Meteo e Nominatim. Sem frameworks. | HTML, CSS, JavaScript |
-| **Landing page de estúdio de Pilates** | Página de apresentação com animações ao rolar, layout responsivo e botão de contato direto pelo WhatsApp. | HTML, CSS, JavaScript |
-| **Site de ateliê de bolsas maternidade** | Site para um ateliê artesanal, com formulário de orçamento que monta a mensagem pronta para o WhatsApp da artesã. | HTML, CSS, JavaScript |
-| **Sistema de notas (C#)** | Aplicação Windows Forms que cadastra notas de alunos e gera relatório com média, maior e menor nota e quantidade de aprovados. | C#, Windows Forms |
+| **[Landing page — personal trainer](https://github.com/leonardoalvesferraz0704-png/Landing-page-marcos-brito)** · [🔗 ver no ar](https://personalmarcosbrito.com.br/) | Landing page para um personal trainer de Londrina, com apresentação dos serviços e foco em gerar contatos e converter visitantes em clientes. Interface moderna e responsiva. | HTML, CSS, JavaScript |
+| **[Landing page — estética automotiva](https://github.com/leonardoalvesferraz0704-png/Landing-page-estetica-automotiva)** · [🔗 ver no ar](https://starestetica.com.br/) | Landing page para uma estética automotiva, com apresentação dos serviços e valorização da marca. Interface moderna e responsiva. | HTML, CSS, JavaScript |
+| **[Tela de cadastro (C#)](https://github.com/leonardoalvesferraz0704-png/tela-de-cadastro-)** | Sistema de tela de cadastro desenvolvido em C#. | C# |
+| **[Sistema de notas (C#)](https://github.com/leonardoalvesferraz0704-png/sistema-de-nota-c-)** | Sistema para calcular a média de um aluno, desenvolvido em C#. | C# |
 
 ## 🌎 Idiomas
 
@@ -60,9 +60,9 @@ Outside of class, I build websites for small businesses, which teaches me how to
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Busca do Tempo (BDT)** | Team-built weather app: searches the city typed in and shows its weather using the Open-Meteo and Nominatim APIs. No frameworks. | HTML, CSS, JavaScript |
-| **Pilates studio landing page** | Presentation page with scroll animations, responsive layout and a direct WhatsApp contact button. | HTML, CSS, JavaScript |
-| **Handmade maternity bag atelier site** | Website for a handmade atelier, with a quote form that builds a ready-to-send WhatsApp message. | HTML, CSS, JavaScript |
-| **Grade management system (C#)** | Windows Forms app that records student grades and generates a report with average, highest/lowest grade and pass count. | C#, Windows Forms |
+| **[Landing page — personal trainer](https://github.com/leonardoalvesferraz0704-png/Landing-page-marcos-brito)** · [🔗 live](https://personalmarcosbrito.com.br/) | Landing page for a personal trainer in Londrina, presenting his services and focused on generating leads and converting visitors into clients. Modern, responsive interface. | HTML, CSS, JavaScript |
+| **[Landing page — auto detailing](https://github.com/leonardoalvesferraz0704-png/Landing-page-estetica-automotiva)** · [🔗 live](https://starestetica.com.br/) | Landing page for an auto detailing shop, presenting its services and strengthening the brand. Modern, responsive interface. | HTML, CSS, JavaScript |
+| **[Registration screen (C#)](https://github.com/leonardoalvesferraz0704-png/tela-de-cadastro-)** | Registration screen system built in C#. | C# |
+| **[Grade average system (C#)](https://github.com/leonardoalvesferraz0704-png/sistema-de-nota-c-)** | System that calculates a student's grade average, built in C#. | C# |
 
 **Languages:** Portuguese (native)
